@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishu Deshwal  
 
-<!--
-**Vishudeshwal12/Vishudeshwal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst | Data Science Enthusiast**  
+📍 Haryana, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Data Analysis:** SQL, Power BI, Excel  
+- **Core Areas:** Data Cleaning, EDA, Data Visualization  
+
+---
+
+## 📂 Projects
+
+- 🎬 **[Netflix EDA](https://github.com/Vishudeshwal12/Netflix)**  
+  - Analyzed Netflix dataset for trends by year, genre & country  
+  - Visualized content growth and insights  
+
+- 🍴 **[Zomato Restaurant Analysis](https://github.com/Vishudeshwal12/Zomato)**  
+  - Cleaned missing data, handled outliers  
+  - Found top cuisines, city-wise ratings, cost analysis  
+
+- 🛒 **[BigBasket EDA](https://github.com/Vishudeshwal12/BigBasket)**  
+  - Grocery data analysis, category-wise pricing trends  
+  - Identified top-selling product categories  
+
+- 🍽️ **[Indian Restaurants](https://github.com/Vishudeshwal12/Indian-Restaurants)**  
+  - Explored customer preferences and restaurant ratings  
+  - Insights on cuisines, average ratings, and outliers  
+
+---
+
+## 📫 Connect With Me
+- ✉️ **Email:** vishudeshwal890@gmail.com  
+- 🐙 **GitHub:** [Vishudeshwal12](https://github.com/Vishudeshwal12)  
+
+---
+
+⭐ *Check out my repositories for detailed project reports, code, and insights!*
