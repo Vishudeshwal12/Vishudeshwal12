@@ -26,9 +26,7 @@
   - Grocery data analysis, category-wise pricing trends  
   - Identified top-selling product categories  
 
-- 🍽️ **[Indian Restaurants](https://github.com/Vishudeshwal12/Indian-Restaurants)**  
-  - Explored customer preferences and restaurant ratings  
-  - Insights on cuisines, average ratings, and outliers  
+
 
 ---
 
